@@ -10,4 +10,6 @@ Quintos Cambios Subidos con SmartGit
 Primer Cambio subido a Persona
 Segundo cambio subido a Persona
 Cambio subido a Master
+----------------------------------------------------------
+Segundo Cambio subido a master
 
