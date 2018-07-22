@@ -6,3 +6,7 @@ Segundos Cambios Subidos con SmartGit
 Terceros Cambios subidos con SmartGit
 Cuertos Cambios subidos on SmartGit
 Quintos Cambios Subidos con SmartGit
+Cambio agregado a la rama persona
+Segundo cambio agregado a rama persona
+Cambio agregado a la Rama master
+
