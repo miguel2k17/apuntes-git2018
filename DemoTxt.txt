@@ -21,5 +21,7 @@ Primer cambio subido a personal
 Sexto cambio subido a master
 Septimo cambio subido a master
 primer cambio subido a miguelito
+----------------------------------------
+Primer cambio subido desde Source Tree en la rama Master
 
 
