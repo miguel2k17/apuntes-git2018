@@ -6,3 +6,4 @@ Tercera linea gregada desde el PC
 Cuarta linea agregada desde la PC
 Linea agregada desde la pc el 17/08/2018
 Esta primera linea de cambio sera subida via SSH a github solamente
+Esta linea de cambio sera subida via SSH a BITBUCKET solamente.
